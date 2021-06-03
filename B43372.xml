@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The French kings speech to the Queen of England at her arrival in Paris and the Queens answer / faithfully translated out of French by a person of quality.</title>
+            <author>Louis XIV, King of France, 1638-1715.</author>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B43372</idno><idno type="EEBO-CITATION">318212010</idno>
+  <idno type="VID">208375</idno>
+  <idno type="EEBO-PROQUEST">2240889572</idno>
+  
+            <idno type="OCLC"> 318212010</idno>
+            <idno type="OCLC">ocn 318212010</idno>
+            <idno type="STC">Wing L3138</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B43372)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 208375)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2940:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The French kings speech to the Queen of England at her arrival in Paris and the Queens answer / faithfully translated out of French by a person of quality.</title>
+                  <author>Louis XIV, King of France, 1638-1715.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Library of Congress.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Mary, --  of Modena, Queen, consort of James II, King of England, 1658-1718.</term>
+               <term type="geographic_name">Great Britain --  History --  Revolution of 1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="speech">
+            <pb facs="tcp:208375:1"/>
+            <pb facs="tcp:208375:2"/>
+            <pb n="1" facs="tcp:208375:2"/>
+            <head>THE French Kings SPEECH TO THE <hi>Queen of England,</hi> At her Arrival in <hi>Paris:</hi> And the <hi>Queens</hi> Answer.</head>
+            <head type="sub">Faithfully Translated out of <hi>French</hi> by a Person of Quality.</head>
+            <opener>
+               <salute>MADAM,</salute>
+            </opener>
+            <p>THe Honour that Our Self, and Our Kingdom receives from the presence of so Illustrious a Personage within the Court of <hi>France,</hi> would raise in Us the most Extraordinary Transports, were not the Blessing in a great Measure lessened by Our afflicting sense of the unhappy Providence that gives it Us. However, though those peculiar Smiles of Heaven that are not alwaies pleased to shine Brightest and kindlyest on the most exalted Merit, are in so high a de<g ref="char:EOLhyphen"/>gree with-drawn at present from the more strenuous Protection, and nearer Care of those Soveraign Graces and Heavenly Perfections, that Perfections, that so signally adorne Your Majesty; and the popular Reflections on Your Majesties Misfortune, may with the prejudiced and unthinking (who only weigh Vertue by its Felicity, and Desert by its Success) possibly encourage some poor and ignoble Suggestions, and thereby lessen their just and due Veneration and Adoration of such transcendent Qua<g ref="char:EOLhyphen"/>lifications. Let it suffice, Illustrious <hi>Madam,</hi> That the Deity shines through the Cloud, and in the Eyes of the Good and Great, Your Majesty rather borrows Luster from that Foyle Your unjust Fortune has lent You. However, Our Reflections on the Barbarous, Rebelli<g ref="char:EOLhyphen"/>ous,
+<pb n="2" facs="tcp:208375:3"/>and Infidel <hi>England</hi> cannot terminate in any less Sentiments than those of <hi>Astonishment</hi> and <hi>Horrour.</hi> We look upon Your Divine Self, and that Young Prince, like a second <hi>Creusa,</hi> and her Young Darling <hi>Julus,</hi> escaped from the Conflagration of <hi>Troy;</hi> and from flaming Rebellion, Heresie, Treason, Ingratitude, that native <hi>English</hi> nest of <hi>Scorpions,</hi> I dare boldly give Your Majesty Well-come, into a Hospi<g ref="char:EOLhyphen"/>table Coast of Safety and Honour; whilst Our Glory of serving You with all the highest Zeal and Fidelity, shall be ever recorded the No<g ref="char:EOLhyphen"/>blest and most Indefatigable Ambition of our Life.</p>
+            <p>His Sacred Majesty of great <hi>Britain,</hi> whose interest has ever been Inseperable with Our Own, could not repose all that is dearest and nearest to Him under a more Tutelary Roof then Our Own. The Hands, Hearts, and Lives of all <hi>France</hi> are your Wall of Brass; and We only pride Our Self in avowing our Sword and all the Arms of <hi>France</hi> the select Instruments of God to scourge the Infidelity and Arro<g ref="char:EOLhyphen"/>gance of that Audatious Heretick Nation. It is enough, that their too Bold and Impudent Inquiries into the Actions, Policies, and Conduct of Crown'd Heads; and their more Impudent Sawcy prying into the Veins of this <hi>Royal Infant,</hi> Speculations so far elevated above the inso<g ref="char:EOLhyphen"/>lent Scrutiny of Homagers, Subjects, and Vassals, call down all that just Vengeance that the most dreadful Vials of the Almighty Wrath, either by the more immediate Bolts of Heaven, or the Arm of Man can pour upon them.</p>
+            <p>As these Considerations were of themselves alone sufficient to awaken all the Imperial Swords, Axes, and Fasces of Christendom; nay, even Poysons and Poynjards too to Your Revenge. Besides, the Duty of a true Son of the Church, that common and more Universal Tye, Our Self lye under a more particular Obligation; the uninfringible Bonds of that most Holy League solemnly Signed, Sealed, and mutu<g ref="char:EOLhyphen"/>ally Sworn to, between Our Brother of Great <hi>Britain,</hi> and our Roy<g ref="char:EOLhyphen"/>al Self. I can only add, <hi>Dear Sister,</hi> That your Self, and equally dear Cause are lodged in the hand of your Avenger, and that <hi>Royal Infant</hi> is our Adoption: And as the Extirpation of the <hi>Northern</hi> Heresie has been Our Own, and Our Royal Brothers most sacred Engagement, and his present Wrongs and Indignities have opened a fairer Gate for the blessed Work, under the Covert and Umbrage of righting his In<g ref="char:EOLhyphen"/>juries. Doubt, <hi>Royal Madam,</hi> neither the Alacrity nor Swiftness of our Revenge; to the Execution of which we shall fly so winged and so pleased, as if Commission'd by the peculiar Mandate of a God, and with the Arm of a destroying Angel.</p>
+            <div type="response">
+               <pb n="3" facs="tcp:208375:3"/>
+               <head>The QUEENS Answer.</head>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>THe Sanctuary that Your Majesties inviolable Friendship (I was so well assured) had set open to the Protection and shelter of Greatness in Distress, was enough to invite the stragling Shipwracks of a <hi>Royal Family,</hi> to put in to this Favourable Harbour with that absolute Resignation and Trust, that all Your Ma<g ref="char:EOLhyphen"/>jesties too generous Expressions of Succour and Defence, are meerly a work of Supererrogation. Our Confidence in Your unparallel'd Good<g ref="char:EOLhyphen"/>ness, especially, to any thing tho meanlier related to the Crown'd Head of <hi>England,</hi> was both Pasport and Hostage sufficient for our Se<g ref="char:EOLhyphen"/>curity under the protection of the Great <hi>Lewis</hi> of <hi>France;</hi> and since this fatal Storm has so cruelly and deplorably shaken the Throne of three Kingdoms, with the same Assurance is my unhappy <hi>Lord</hi> and <hi>King</hi> following for a shelter under the same Guardian Goodness. Won<g ref="char:EOLhyphen"/>der not, <hi>Great Sir,</hi> that He Dares so intirely confide not only Ours, but his own more sacred Royal Person in those Hands where before He had long so absolutely resolved and engaged to trust his CROWN. But, Oh! What a sullen and dark Mist is now arising to sully the brightness of the once shineing Diadem of <hi>England?</hi> My <hi>Dearest Lord,</hi> a Prince so Excellent, so God-like good, that I may truly say, his great<g ref="char:EOLhyphen"/>est, if not only Sin, was his keeping a little too much <hi>Faith</hi> with <hi>He<g ref="char:EOLhyphen"/>reticks;</hi> forgetting, alas, <hi>His Apostolical Duty, His Sacramental Bonds,</hi> and more particularly, <hi>His Vows</hi> and <hi>Oaths</hi> to Your most Christian Majesty. However, to what Resolves, to what sublime Atcheivements did Your Majesties Pious Councils, his Holy Confessors Tears, and my own endearing Prayers and Caresses at last transport Him. But whether, Oh! whether, are we faln; what Blocks, what Bars, what Ruins, and what Precipices have stopt our Heavenly Progress?</p>
+               <p>But tho the prevailing evil <hi>Genius</hi> of <hi>England,</hi> has at least at present, broken and def<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ated those Divine Measures and sacred Designs, so glo<g ref="char:EOLhyphen"/>riously formed by my Dear <hi>James,</hi> and your truly most Christian Ma<g ref="char:EOLhyphen"/>esty, for the Reduction of the long revolted Heretical <hi>Britain,</hi> to her primitive Christianity and true Apostolical Obedience; nevertheless whatever ill success our failing endeavours may have hitherto met in that pious Enterprize. We shall however carry this comfort through
+<pb n="4" facs="tcp:208375:4"/>Exile, nay, to Death it self, that our Conduct like true Defenders of the Faith, in but poor 4 years Reign has retrived the lost <hi>Ireland,</hi> and of 3 Apostate Kingdoms, once so near their Conversion, restored <hi>one</hi> at least to Holy Mother Church, by wresting the Soveraign Ad<g ref="char:EOLhyphen"/>ministration, Dominion, and all the <hi>Regalia</hi> of that Kingdom from the hands of Thieves and Robbers; and re-investing our Trusty and well beloved <hi>Tyrconnel,</hi> and the rest of those true Sons of the Church once more in their old Hereditary <hi>Naboth</hi> Vinyard; those dutiful and un<g ref="char:EOLhyphen"/>shaken Champions of Truth, whose ever faithful Swords under the Bannors of the most Blessed Queen of <hi>Heavn</hi> and her Son <hi>Jesus,</hi> and in due Allegeance to our Holy Lord God the Pope, shall repair those yawning and gaping Breaches, Wastes and Ruins made by that Usurper and Tyrant <hi>Bess,</hi> 8th. <hi>Harrys</hi> accursed Heretical Bastard of ever infa<g ref="char:EOLhyphen"/>mous Memory. What ist they shall not dare or act, 'tis their hands that shall replant the long faded Flowers of the Church; and in per<g ref="char:EOLhyphen"/>suance of our Soveraign Commission, water them once more with the flowing Blood of all our Anti-christian Heretick Enemies; that se<g ref="char:EOLhyphen"/>cond <hi>Irish</hi> Glory, an Action that shall so signally eternize the Renoune of the great <hi>James</hi> the <hi>JƲST,</hi> that his Memory shall smell fragant to latest Posterity and blossom even on his Tomb.</p>
+               <p>And now, <hi>Great Sir,</hi> in tenderness for this <hi>Royal Infant,</hi> a Blessing which the United Prayers of the Church and our Offerings to our hea<g ref="char:EOLhyphen"/>venly Lady have so long wrestled for, as a sanctified Vessel for the fi<g ref="char:EOLhyphen"/>nishing that work the great <hi>James</hi> should want Years to compleat, The imploreing Injuries of this little Suppliant, beg Your Majesties most tender and indeed immediate Patronage, as being like Your self a pe<g ref="char:EOLhyphen"/>culiar Deodate of <hi>Heavn;</hi> the true and Legitimate Birth of this sweet <hi>Prince,</hi> whatever black False-hood and Impostures the ever lying Scan<g ref="char:EOLhyphen"/>dals and Calumnies of the harden'd <hi>Lutheran</hi> Infidelity and Heretick <hi>English</hi> Villany may raise to eclipse him (I assure Your Majesty, and the all-knowing Providence can witness for me) is as unquestionable, and the <hi>sweet Infant,</hi> as assuredly the true begotten Son of my Dear Lord King <hi>James</hi> the Second; As Your Majesty is of the Great <hi>Lewis</hi> the 13th. of <hi>France.</hi> Take then this <hi>Babe</hi> as an Alliance to Your Great Self, and express to the World the nearness of Your Affinity to him, by Your Industry and Zeal in righting and preserving Him.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:208375:4"/>
+         </div>
+      </body>
+   </text>
+</TEI>
